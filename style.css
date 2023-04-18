@@ -53,7 +53,7 @@ input[type = 'date'] {
     padding: 0.5em;
     border: 1px solid #ccc;
     border-radius: 5px;
-    width: min(100%, 300px);
+    width: min(80%, 300px);
     cursor: pointer;
     background-image: url(./images/vector-calendar-icon-symbol-sign-1377238130);
     background-repeat: no-repeat;
